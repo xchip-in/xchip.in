@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://public.xchip.in/static/css/main.91c5ca91.css",
-    "main.js": "https://public.xchip.in/static/js/main.d94d55d5.js",
-    "static/js/453.0d01b2e5.chunk.js": "https://public.xchip.in/static/js/453.0d01b2e5.chunk.js",
-    "index.html": "https://public.xchip.in/index.html",
-    "main.91c5ca91.css.map": "https://public.xchip.in/static/css/main.91c5ca91.css.map",
-    "main.d94d55d5.js.map": "https://public.xchip.in/static/js/main.d94d55d5.js.map",
-    "453.0d01b2e5.chunk.js.map": "https://public.xchip.in/static/js/453.0d01b2e5.chunk.js.map"
+    "main.css": "https://www.xchip.in/static/css/main.91c5ca91.css",
+    "main.js": "https://www.xchip.in/static/js/main.a8195d28.js",
+    "static/js/453.0d01b2e5.chunk.js": "https://www.xchip.in/static/js/453.0d01b2e5.chunk.js",
+    "index.html": "https://www.xchip.in/index.html",
+    "main.91c5ca91.css.map": "https://www.xchip.in/static/css/main.91c5ca91.css.map",
+    "main.a8195d28.js.map": "https://www.xchip.in/static/js/main.a8195d28.js.map",
+    "453.0d01b2e5.chunk.js.map": "https://www.xchip.in/static/js/453.0d01b2e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91c5ca91.css",
-    "static/js/main.d94d55d5.js"
+    "static/js/main.a8195d28.js"
   ]
 }
